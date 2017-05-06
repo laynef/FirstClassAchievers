@@ -4,5 +4,6 @@ First Class Achievers is a template of major types of websites that exist in the
 
 ## Social Web App
 
-[Check out Repo](https://github.com/laynefaler/FirstClassAchievers-Social)
+[Check out Social Repo](https://github.com/laynefaler/FirstClassAchievers-Social)
+[Check out Social README Details](https://github.com/laynefaler/FirstClassAchievers-Social/blob/master/README.md)
 ![alt-tag](./github/detailed.png)
