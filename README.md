@@ -5,7 +5,7 @@ First Class Achievers is a template of major types of websites that exist in the
 ## Social Web App
 
 ### Features
-<br> Chat
+Chat
 <br> Notifications
 <br> Authenication
 <br> Unauthenticated View & Authenicated View
